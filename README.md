@@ -12,7 +12,7 @@ npm install
 
 ``````
 
-ademas para crear su archivo plano. Desde la linea de comando digitar:
+ademas para crear su archivo plano. Desde la linea de comando digita:
 
 ``````
 node multi listar --limit 30 --base 9
@@ -23,9 +23,9 @@ Donde:
 
 multi, es al nombre del archivo principal del programa.
 
-listar, es el array de objesto creado con el paquete YARGS de la carpeta node_modules.
+listar, es el array de objeto creado con el paquete YARGS instalado en la carpeta node_modules.
 
---limit, es el valor o numero hasta donde se hara la tabla de multiplicar (1-30).
+--limit, es el valor o numero de iteraciones de la tabla a multiplicar (1-30).
 
 --base, es la tabla de multiplicar a la cual se le creara el archivo plano.
 
