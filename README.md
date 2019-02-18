@@ -4,7 +4,7 @@
 Esta es una Aplicacion que genera archivos planos con las tabla de multiplicar
 que usted desee crear.
 
-Se les recomienda ingresar este comando para correr la plicacion.
+Se les recomienda ingresar este comando para correr la aplicacion.
 
 ``````
 
