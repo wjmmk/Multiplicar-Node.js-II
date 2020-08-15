@@ -12,7 +12,7 @@ npm install
 
 ``````
 
-ademas para crear su archivo plano. Desde la linea de comando digita:
+además, para crear su archivo plano. Desde la linea de comando y correr bien la Aplicacón debes digitar:
 
 ``````
 node multi listar --limit 30 --base 9
